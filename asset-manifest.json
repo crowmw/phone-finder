@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b9eace9.css",
-    "main.js": "/static/js/main.3ce79e3b.js",
-    "index.html": "/index.html",
-    "main.8b9eace9.css.map": "/static/css/main.8b9eace9.css.map",
-    "main.3ce79e3b.js.map": "/static/js/main.3ce79e3b.js.map"
+    "main.css": "/phone-finder/static/css/main.8b9eace9.css",
+    "main.js": "/phone-finder/static/js/main.3ce79e3b.js",
+    "index.html": "/phone-finder/index.html",
+    "main.8b9eace9.css.map": "/phone-finder/static/css/main.8b9eace9.css.map",
+    "main.3ce79e3b.js.map": "/phone-finder/static/js/main.3ce79e3b.js.map"
   },
   "entrypoints": [
     "static/css/main.8b9eace9.css",
