@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/phone-finder/static/css/main.8b9eace9.css",
-    "main.js": "/phone-finder/static/js/main.3ce79e3b.js",
+    "main.js": "/phone-finder/static/js/main.33ec45f9.js",
     "index.html": "/phone-finder/index.html",
     "main.8b9eace9.css.map": "/phone-finder/static/css/main.8b9eace9.css.map",
-    "main.3ce79e3b.js.map": "/phone-finder/static/js/main.3ce79e3b.js.map"
+    "main.33ec45f9.js.map": "/phone-finder/static/js/main.33ec45f9.js.map"
   },
   "entrypoints": [
     "static/css/main.8b9eace9.css",
-    "static/js/main.3ce79e3b.js"
+    "static/js/main.33ec45f9.js"
   ]
 }
